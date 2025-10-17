@@ -1,6 +1,6 @@
 # 🪑 Furnizen – Furniture Brand Hero Section
 
-A modern, responsive **Hero Section** UI built using **React** and **Tailwind CSS**, organized with **Atomic Design principles**. Cleanly structured, component-driven, and ready to scale.
+A modern, **Hero Section** UI built using **React** and **Tailwind CSS**, organized with **Atomic Design principles**. Cleanly structured, component-driven, and ready to scale.
 
 ---
 
